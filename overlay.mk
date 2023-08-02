@@ -59,6 +59,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-infinix-zero6 \
 	treble-overlay-infinix-zeroxpro \
 	treble-overlay-lenovo-Q706F \
+	treble-overlay-lenovo-J716F \
 	treble-overlay-lenovo-Y70 \
 	treble-overlay-lenovo-k5pro \
 	treble-overlay-lenovo-s5 \
