@@ -3,7 +3,7 @@
     <bool name="config_allowAutoBrightnessWhileDozing">true</bool>
     <bool name="config_autoBrightnessResetAmbientLuxAfterWarmUp">true</bool>
     <bool name="config_auto_attach_data_on_creation">true</bool>
-    <bool name="config_automatic_brightness_available">false</bool>
+    <bool name="config_automatic_brightness_available">true</bool>
     <bool name="config_bluetooth_hfp_inband_ringing_support">false</bool>
     <bool name="config_bluetooth_le_peripheral_mode_supported">false</bool>
     <bool name="config_carrier_volte_available">false</bool>
@@ -17,7 +17,7 @@
     <bool name="config_dozeAlwaysOnDisplayAvailable">false</bool>
     <bool name="config_dozePulsePickup">false</bool>
     <bool name="config_dozeSupportsAodWallpaper">true</bool>
-    <bool name="config_enableBurnInProtection">false</bool>
+    <bool name="config_enableBurnInProtection">true</bool>
     <bool name="config_enableFusedLocationOverlay">true</bool>
     <bool name="config_enableNetworkLocationOverlay">true</bool>
     <bool name="config_fillMainBuiltInDisplayCutout">false</bool>
